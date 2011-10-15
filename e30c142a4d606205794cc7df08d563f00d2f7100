@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAJ3//+5E\u003d",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 127,
+      "author": {
+        "id": 431
+      },
+      "writtenOn": "2011-10-15T21:07:21Z",
+      "side": 1,
+      "message": "untill -\u003e until",
+      "revId": "e30c142a4d606205794cc7df08d563f00d2f7100",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
